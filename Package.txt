@@ -1,0 +1,8 @@
+package: SDL_mixer
+platformname: macosx
+date: macosx(28.01.2024, 00.03.56)
+minimumversion: macosx(10.13)
+platformversion: macosx(14.2)
+sdkversion: macosx(1520)
+bundleversion: macosx(1.2.13)
+checksum: ff3c40721cb5227a4309415745178bca2d2dc9111df3f491dc4069c912cd4da0
